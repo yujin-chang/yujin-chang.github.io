@@ -8,7 +8,7 @@
     display: block;
     float: left;
 
-    @include mixins.media-query(variables.$on-mobile) {
+    @include mixins.media-query($on-mobile) {
       display: block;
       float: none;
       color: #333;
