@@ -8,7 +8,7 @@
   border-radius: 3px;
   margin-left: 20px;
 
-  @include mixins.media-query($on-mobile) {
+  @include media-query($on-mobile) {
     float: none;
     margin-bottom: 20px;
     margin-left: 0px;
@@ -48,7 +48,7 @@
       }
     }
 
-    @include mixins.media-query($on-mobile) {
+    @include media-query($on-mobile) {
       font-size: 14px;
       line-height: 38px;
     }

@@ -12,7 +12,7 @@
 
   font-family: $base-font-family;
 
-  @include mixins.media-query($on-mobile) {
+  @include media-query($on-mobile) {
     font-size: 34px;
   }
 }
@@ -27,7 +27,7 @@
   position: relative;
   top: -0.3em;
 
-  @include mixins.media-query($on-mobile) {
+  @include media-query($on-mobile) {
     font-size: 24px;
   }
 }
@@ -43,7 +43,7 @@
   h2 {
     font-size: 32px;
 
-    @include mixins.media-query($on-mobile) {
+    @include media-query($on-mobile) {
       font-size: 28px;
     }
   }
@@ -51,7 +51,7 @@
   h3 {
     font-size: 26px;
 
-    @include mixins.media-query($on-mobile) {
+    @include media-query($on-mobile) {
       font-size: 22px;
     }
   }
@@ -59,7 +59,7 @@
   h4 {
     font-size: 20px;
 
-    @include mixins.media-query($on-mobile) {
+    @include media-query($on-mobile) {
       font-size: 18px;
     }
   }

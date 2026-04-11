@@ -198,7 +198,7 @@ pre {
 
   @extend %clearfix;
 
-  @include mixins.media-query($on-laptop) {
+  @include media-query($on-laptop) {
     max-width: -webkit-calc(800px - (#{$spacing-unit}));
     max-width: calc(800px - $spacing-unit);
     padding-right: calc($spacing-unit / 2);
