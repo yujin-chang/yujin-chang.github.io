@@ -58,7 +58,7 @@
   }
 
   @include mixins.media-query(variables.$on-mobile) {
-    position: absolute;
+    position: relative;
     top: 12px;
     right: 24px;
 
