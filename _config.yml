@@ -12,11 +12,11 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
-    - name: Blog
+    - name: Research #Work
+    - name: Resume #Blog
 
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - type: email
       name: Gmail

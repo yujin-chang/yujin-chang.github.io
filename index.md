@@ -17,9 +17,6 @@ profile_picture:
   Obsessed with math and computers — cryptography was inevitable. 🔮✨
 </p>
 
-<h3>
-💡 Research Interests:
-</h3>
 <p>
 I have a broad interest in cryptography which includes both theoretical and applied cryptography. In particular, my main focus is on lattice-based cryptographic primitives such as proof systems, digital signatures, and fully homomorphic encryption, as well as their security definitions. Driven to secure the world against emerging quantum threats!
 </p>
