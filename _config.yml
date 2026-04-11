@@ -1,9 +1,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
-description: Bay is a minimal Jekyll Theme.
-baseurl: "/bay"
+title: Yujin Chang
+description: Yujin Chang description
+baseurl: ""
 url: "https://eliottvincent.github.io"
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
@@ -19,31 +19,24 @@ footer:
   show_powered_by: true
   contact:
     - type: email
-      name: Email
-      value: yourmail@domain.com
-    - type: wechat
-      value: YourWeChatUsername
-      link: "#"
+      name: Gmail
+      value: yujinchang804@gmail.com
+    - type: email
+      name: Purdue
+      value: yjchang@gmail.com
   follow:
-    - type: twitter
-      name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - type: facebook
-      name: Facebook
-      link: http://facebook.com/YourFacebookUsername
     - type: linkedin
       name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: http://linkedin.com/in/yjchangcrypt
     - type: github
       name: GitHub
       link: http://github.com/YourGitHubUsername
-    - type: dribbble
-      name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - type: rss
-      name: RSS
-      link: /feed.xml
+#    - type: dribbble
+#      name: Dribbble
+#      link: https://dribbble.com/YourDribbbleUsername
+#    - type: rss
+#      name: RSS
+#      link: /feed.xml
 
 # Build settings
 markdown: kramdown
