@@ -15,9 +15,9 @@ $color-brand: #2a7ae2;
 
 $color-grey: #828282;
 //$color-grey-light: color.adjust($color-grey, $lightness: 40%);
-$color-grey-light: color.adjust($color-grey, $lightness: 40%);
+$color-grey-light: lighten($color-grey, 40%); //color.adjust($color-grey, $lightness: 40%);
 //$color-grey-dark: color.adjust($color-grey, $lightness: -25%);
-$color-grey-dark: color.adjust($color-grey, $lightness: -25%);
+$color-grey-dark: darken($color-grey, 25); //color.adjust($color-grey, $lightness: -25%);
 
 $on-mobile: 500px;
 $on-laptop: 800px;
